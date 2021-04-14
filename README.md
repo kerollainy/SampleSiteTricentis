@@ -1,4 +1,4 @@
-## :eight_spoked_asterisk: ​Automação com Selenium e Cucumber
+## :eight_spoked_asterisk:  ​Automação com Selenium e Cucumber  :eight_spoked_asterisk:
 
 Projeto desenvolvido para a fase final de avaliação da *Gama Academy*. 
 
